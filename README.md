@@ -29,9 +29,9 @@ TripleTen, 02/2024 – 06/2024
 - Rental Market Project, involved in Data Analyst duties for investors looking purchase properties in New York.  
 
 ### Tools
-Visualization Tools: MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SQL Server Reporting Service (SSRS) • Power BI. 
-Other Tools: AWS (Amazon Web Services) • Bugzilla • ERwin • Gretl • JIRA • Macola ES (ERP) • Maven • MS Dynamics CRM • Oracle Forms • Perforce • Salesforce (CRM) • SQL Developer • Subversion • SSMS • SSIS • TOAD • RStudio • Informatica Power Center.
-Databases: MySQL • Oracle (8i, 10g, 11g) • SQL Server (2005, 2008).
-Operating Systems: Linux • Unix • Windows (XP, 7, 2008, 2012).
+- Visualization Tools: MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SQL Server Reporting Service (SSRS) • Power BI.
+- Other Tools: AWS (Amazon Web Services) • Bugzilla • ERwin • Gretl • JIRA • Macola ES (ERP) • Maven • MS Dynamics CRM • Oracle Forms • Perforce • Salesforce (CRM) • SQL Developer • Subversion • SSMS • SSIS • TOAD • RStudio • Informatica Power Center.
+- Databases: MySQL • Oracle (8i, 10g, 11g) • SQL Server (2005, 2008).
+- Operating Systems: Linux • Unix • Windows (XP, 7, 2008, 2012).
 
 
