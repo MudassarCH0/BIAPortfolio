@@ -1,5 +1,3 @@
-# Business Intelligence Analyst
-
 ### Summary
 - 6+ years of experience in Data Analysis in OLTP (Online Transaction Processing) Applications, Data Warehousing/OLAP (Online Analytical Processing), and BI (Business Intelligence) Reporting.   
 - Experience in Data Acquisition, Data Cleansing, Data Modeling, and in ETL (Extract, Transform, Load) operations and Data Warehouse management.
