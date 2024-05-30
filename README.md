@@ -31,6 +31,7 @@ TripleTen, 02/2024 – 06/2024
 ### Tools
 - Visualization Tools: MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SQL Server Reporting Service (SSRS) • Power BI.
 - Other Tools: AWS (Amazon Web Services) • Bugzilla • ERwin • Gretl • JIRA • Macola ES (ERP) • Maven • MS Dynamics CRM • Oracle Forms • Perforce • Salesforce (CRM) • SQL Developer • Subversion • SSMS • SSIS • TOAD • RStudio • Informatica Power Center.
+- Languages: C/C++ • HTML • Java • JavaScript • PHP • PL/SQL • Python • Bash • Python • SQL • R • T-SQL • XML.
 - Databases: MySQL • Oracle (8i, 10g, 11g) • SQL Server (2005, 2008).
 - Operating Systems: Linux • Unix • Windows (XP, 7, 2008, 2012).
 
