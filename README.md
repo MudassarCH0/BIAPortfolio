@@ -10,24 +10,24 @@
 - B.S. in Electrical Engineering, University of California, Davis, CA, 06/2006 
 
 ### Experience
-- Data Analyst/Tableau Developer, Sptecra Global Tech, Glendale Heights, IL, 04/2018 – 06/2021
-- Data Analyst, Education Dynamics Inc., Pasadena, CA, 05/2016 – 09/2017
-- Technical Support Specialist, Celerant Corporation, Fountain Valley, CA, 10/2015 – 04/2016 
+- Data Analyst, TripleTen, Cheyenne, WY, 02/2024 – 06/2024
+- Data Analyst/Tableau Developer, Sptecra Global Tech, Glendale Heights, IL, 04/2018 – 06/2020
+- Data Analyst, Education Dynamics Inc., Pasadena, CA, 05/2016 – 07/2017
+- Technical Support Specialist, Celerant Corporation, Fountain Valley, CA, 10/2015 – 04/2016
 - SQL Developer, Carney Direct Marketing, Irvine, CA, 02/2014 – 10/2015
-- Jr. PL/SQL Developer, Tyrell Software Corporation, Lake Forest, CA, 07/2012 – 12/2013 
-- Jr. PL/SQL Developer, DaVita Healthcare Partners Inc., Vernon Hills, IL, 10/2011 – 05/2012 
-- Linux Programmer Level 1, Sunrise Telecom Corporation, San Jose, CA, 09/2009 – 08/2011  
-- Associate Test Engineer, KLA-Tencor Corporation, San Jose, CA, 10/2006 – 08/2009
+- Jr. PL/SQL Developer, Tyrell Software Corporation, Lake Forest, CA, 07/2012 – 09/2013
+- Jr. PL/SQL Developer, DaVita Healthcare Partners Plans Inc., Vernon Hills, IL, 10/2011 – 05/2012
+- Linux Programmer Level 1, Sunrise Telecom Corporation, San Jose, CA, 08/2010 – 08/2011
+- Associate Test Engineer, KLA-Tencor Corporation, Milpitas, CA, 06/2007 – 08/2008
 
 ### Projects 
 TripleTen, 02/2024 – 06/2024
-- Tech Company Project, involved in Data Analyst duties for restaurant industry.
-  [Project Link](www.google.com)
-- Apps Marketplace Project, involved Data Analyst tasks for Apps Marketplace and music streaming App.
-- Superstore Operations Project, involved in Data Analyst work for Superstore to improve its operations.
-- Ride Sharing Company Project, involved in Data Analyst role for launch of a new ride sharing company.
-- E-commerce Site Project, involved in Data Analyst tasks of an e-commerce site for Sales and Marketing team.
-- Rental Market Project, involved in Data Analyst duties for investors looking purchase properties in New York.  
+- Tech Company Project, involved in Data Analyst duties for restaurant industry. [GitHub Link](www.google.com)
+- Apps Marketplace Project, involved Data Analyst tasks for Apps Marketplace and music streaming App. [GitHub Link](www.google.com)
+- Superstore Operations Project, involved in Data Analyst work for Superstore to improve its operations. [GitHub Link](www.google.com)
+- Ride Sharing Company Project, involved in Data Analyst role for launch of a new ride sharing company. [GitHub Link](www.google.com)
+- E-commerce Site Project, involved in Data Analyst tasks of an e-commerce site for Sales and Marketing team. [GitHub Link](www.google.com)
+- Rental Market Project, involved in Data Analyst duties for investors looking purchase properties in New York.[GitHub Link](www.google.com) 
 
 ### Tools
 - Visualization Tools: MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SQL Server Reporting Service (SSRS) • Power BI.
