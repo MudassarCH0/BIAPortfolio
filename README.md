@@ -22,6 +22,7 @@
 ### Projects 
 TripleTen, 02/2024 – 06/2024
 - Tech Company Project, involved in Data Analyst duties for restaurant industry.
+- Project Link: www.google.com
 - Apps Marketplace Project, involved Data Analyst tasks for Apps Marketplace and music streaming App.
 - Superstore Operations Project, involved in Data Analyst work for Superstore to improve its operations.
 - Ride Sharing Company Project, involved in Data Analyst role for launch of a new ride sharing company.
