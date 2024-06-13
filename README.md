@@ -22,9 +22,9 @@
 
 ### Projects 
 TripleTen, 02/2024 – 06/2024
-- Tech Company Project, involved in Data Analyst duties for restaurant industry. [GitHub Link](https://github.com/MudassarCH0/NYC-Airbnb-Project)
+- Tech Company Project, involved in Data Analyst duties for restaurant industry. [GitHub Link](www.google.com)
 - Apps Marketplace Project, involved Data Analyst tasks for Apps Marketplace and music streaming App. [GitHub Link](www.google.com)
-- Superstore Operations Project, involved in Data Analyst work for Superstore to improve its operations. [GitHub Link](www.google.com)
+- Superstore Operations Project, involved in Data Analyst work for Superstore to improve its operations. [GitHub Link](https://github.com/MudassarCH0/Superstore-Project)
 - Ride Sharing Company Project, involved in Data Analyst role for launch of a new ride sharing company. [GitHub Link](www.google.com)
 - E-commerce Site Project, involved in Data Analyst tasks of an e-commerce site for Sales and Marketing team. [GitHub Link](www.google.com)
 - Rental Market Project, involved in Data Analyst duties for investors looking purchase properties in New York. [GitHub Link](https://github.com/MudassarCH0/NYC-Airbnb-Project) 
