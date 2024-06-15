@@ -22,16 +22,16 @@
 
 ### Projects 
 TripleTen, 02/2024 – 06/2024
-- Tech Company Project, involved in Data Analyst duties for restaurant industry. [GitHub Link](https://github.com/MudassarCH0/Zomato-Project)
-- Apps Marketplace Project, involved Data Analyst tasks for Apps Marketplace and music streaming App. [GitHub Link](https://github.com/MudassarCH0/ShopifyApp-Project)
+- **Tech Company** involved in Data Analyst duties for restaurant industry. [GitHub Link](https://github.com/MudassarCH0/Zomato-Project)
+- **Apps Marketplace** involved Data Analyst tasks for Apps Marketplace and music streaming App. [GitHub Link](https://github.com/MudassarCH0/ShopifyApp-Project)
 - Superstore Operations Project, involved in Data Analyst work for Superstore to improve its operations. [GitHub Link](https://github.com/MudassarCH0/Superstore-Project)
 - Ride Sharing Company Project, involved in Data Analyst role for launch of a new ride sharing company. (Details available on request)
 - E-commerce Site Project, involved in Data Analyst tasks of an e-commerce site for Sales and Marketing team. (Details available on request)
 - Rental Market Project, involved in Data Analyst duties for investors looking purchase properties in New York. [GitHub Link](https://github.com/MudassarCH0/NYC-Airbnb-Project) 
 
-### Tools
-- Visualization Tools: MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SQL Server Reporting Service (SSRS) • Power BI
-- Other Tools: AWS (Amazon Web Services) • Bugzilla • ERwin • Gretl • JIRA • Macola ES (ERP) • Maven • MS Dynamics CRM • Oracle Forms • Perforce • Salesforce (CRM) • SQL Developer • Subversion • SSMS • SSIS • TOAD • RStudio • Informatica Power Center
+### Tools  
+- Visualization Tools: MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SSRS • Power BI 
+- Other Tools: AWS • Bugzilla • ERwin • Gretl • JIRA • Macola ES (ERP) • Maven • Oracle Forms • Perforce • Salesforce • SQL Developer • Subversion • SSMS • SSIS • TOAD • RStudio • Informatica Power Center
 - Languages: C/C++ • HTML • Java • JavaScript • PHP • PL/SQL • Python • Bash • Python • SQL • R • T-SQL • XML
 - Databases: MySQL • Oracle (8i, 10g, 11g) • SQL Server (2005, 2008)
 - Operating Systems: Linux • Unix • Windows (XP, 7, 2008, 2012)
