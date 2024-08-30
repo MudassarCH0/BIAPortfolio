@@ -6,12 +6,13 @@
 - Expertise in using Bar Chart, Line Chart, Pie Chart, Maps, Scatter Plots, Composite Chart, and so on.
 
 ### Education
-- **Business Intelligence Analyst** • TripleTen • Cheyenne, WY • Present
+- **Business Intelligence Analyst** • TripleTen • Cheyenne, WY • 06/2024
 - **M.S. in Computer & Electrical Engineering** • San Jose State University • San Jose, CA • 05/2010
 - **B.S. in Electrical Engineering** • University of California • Davis, CA • 06/2006 
 
 ### Experience
-- **Data Analyst/Tableau Developer** • Sptecra Global Tech • Glendale Heights, IL • 04/2018 – 06/2020
+- **Business Intelligence Analyst** • Supernova • Toronto, Ont • 07/2024 – 08/2024
+- **Data Analyst/Tableau Develope** • Sptecra Global Tech • Glendale Heights, IL • 04/2018 – 06/2020
 - **Data Analyst**, Education Dynamics Inc • Pasadena, CA • 05/2016 – 07/2017
 - **Technical Support Specialist** Celerant Corporation • Fountain Valley, CA • 10/2015 – 04/2016
 - **SQL Developer** • Carney Direct Marketing • Irvine, CA • 02/2014 – 10/2015
@@ -20,7 +21,8 @@
 - **Linux Programmer Level I** • Sunrise Telecom Corporation • San Jose, CA • 08/2010 – 08/2011
 - **Associate Test Engineer** • KLA-Tencor Corporation • Milpitas, CA • 06/2007 – 08/2008
 
-### Projects 
+### Projects
+- **Insurance Company** • 08/2024 • [Link](https://github.com/MudassarCH0/Zomato-Project)
 - **Tech Company** • 06/2024 • [Link](https://github.com/MudassarCH0/Zomato-Project)
 - **Apps Marketplace** • 05/2024 • [Link](https://github.com/MudassarCH0/ShopifyApp-Project)
 - **Superstore Operations** • 04/2024 • [Link](https://github.com/MudassarCH0/Superstore-Project)
