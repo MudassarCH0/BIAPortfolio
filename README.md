@@ -26,7 +26,7 @@
 - **Tech Company** • 06/2024 • [Link](https://github.com/MudassarCH0/Zomato-Project)
 - **Apps Marketplace** • 05/2024 • [Link](https://github.com/MudassarCH0/ShopifyApp-Project)
 - **Superstore Operations** • 04/2024 • [Link](https://github.com/MudassarCH0/Superstore-Project)
-- **E-commerce Site** • 03/2024 • [Link](https://docs.google.com/spreadsheets/d/1E_cc74tUvhwINxqVt1h_fB0HL7NhgmaR3zlWQiLE8pE/edit?gid=38637670#gid=38637670)
+- **E-commerce Site** • 03/2024 • [Link](https://github.com/MudassarCH0/E-commerce-Site/tree/main)
 - **Ride Sharing Company** • 03/2024 • (details available on request)
 - **Rental Market** • 02/2024 • [Link](https://github.com/MudassarCH0/NYC-Airbnb-Project) 
 
