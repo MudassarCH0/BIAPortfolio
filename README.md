@@ -11,7 +11,7 @@
 - **B.S. in Electrical Engineering** • University of California • Davis, CA • 06/2006 
 
 ### Experience
-- **Business Intelligence Analyst** • Supernova • Toronto, Ont • 07/2024 – 08/2024
+- **Business Intelligence Analyst (externship)** • Supernova • Toronto, Ont • 07/2024 – 08/2024
 - **Data Analyst/Tableau Develope** • Sptecra Global Tech • Glendale Heights, IL • 04/2018 – 06/2020
 - **Data Analyst**, Education Dynamics Inc • Pasadena, CA • 05/2016 – 07/2017
 - **Technical Support Specialist** Celerant Corporation • Fountain Valley, CA • 10/2015 – 04/2016
@@ -22,13 +22,8 @@
 - **Associate Test Engineer** • KLA-Tencor Corporation • Milpitas, CA • 06/2007 – 08/2008
 
 ### Projects
-- **Insurance Company** • 08/2024 • [Link](https://github.com/MudassarCH0/Zomato-Project)
-- **Tech Company** • 06/2024 • [Link](https://github.com/MudassarCH0/Zomato-Project)
-- **Apps Marketplace** • 05/2024 • [Link](https://github.com/MudassarCH0/ShopifyApp-Project)
-- **Superstore Operations** • 04/2024 • [Link](https://github.com/MudassarCH0/Superstore-Project)
-- **E-commerce Site** • 03/2024 • [Link](https://github.com/MudassarCH0/E-commerce-Site/tree/main)
-- **Ride Sharing Company** • 03/2024 • (details available on request)
-- **Rental Market** • 02/2024 • [Link](https://github.com/MudassarCH0/NYC-Airbnb-Project) 
+- **Externship** • [Link](https://github.com/MudassarCH0/Zomato-Project)
+- **TripleTen** • [Link](https://github.com/MudassarCH0/Data_projects_TripleTen/edit/main/README.md)
 
 ### Tools  
 - **Visualization Tools:** MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SSRS • Power BI 
