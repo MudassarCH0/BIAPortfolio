@@ -22,7 +22,7 @@
 - **Associate Test Engineer** • KLA-Tencor Corporation • Milpitas, CA • 06/2007 – 08/2008
 
 ### Projects
-- **Externship** • [Link](https://github.com/MudassarCH0/Zomato-Project)
+- **Externship** • [Link](https://github.com/MudassarCH0/Supernova)
 - **TripleTen** • [Link](https://github.com/MudassarCH0/Data_projects_TripleTen/edit/main/README.md)
 
 ### Tools  
