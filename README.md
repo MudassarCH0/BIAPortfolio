@@ -23,7 +23,7 @@
 
 ### Projects
 - **Externship** • [Link](https://github.com/MudassarCH0/Supernova)
-- **TripleTen** • [Link](https://github.com/MudassarCH0/Data_projects_TripleTen/blob/main/README.md)
+- **Data Projects** • [Link](https://github.com/MudassarCH0/Data_Projects)
 
 ### Tools  
 - **Visualization Tools:** MicroStrategy • Crystal Reports • Oracle Reports • OBIEE • Tableau • SSRS • Power BI 
